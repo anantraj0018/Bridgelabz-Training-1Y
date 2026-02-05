@@ -1,9 +1,15 @@
 package com.gla.arrays;
-
+import java.util.*;
 public class ArrayTraversal {
-    int[] myArray={10,20,30,40,50};
-    for(int i=0;i<myArray.length;i++){
-        System.out.println("")
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int size = sc.nextInt();
+        int arr[] = new int[size];
+        for (int i = 0; i <size; i++) {
+            arr[i] = sc.nextInt();
+        }
+        for(int i=0;i<size;i++){
+            System.out.println(arr[i]);
+        }
+        }
     }
-
-}
