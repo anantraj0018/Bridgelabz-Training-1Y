@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a71aab6a-878f-48a5-a408-f9bb8b549a6b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="396gm9NnD2P5Rcu9iZ2BsTs7t02" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayBodyMassIndex.executor": "Run",
+    "Application.ArrayBonusDiscount.executor": "Run",
+    "Application.ArrayEvenOdd.executor": "Run",
+    "Application.ArrayFactor.executor": "Run",
+    "Application.ArrayInputInTwoDimension.executor": "Run",
+    "Application.ArrayMeanHeight.executor": "Run",
+    "Application.ArrayMultiplicationTable.executor": "Run",
+    "Application.ArrayPositiveNegativeZeroCheck.executor": "Run",
+    "Application.ArrayReverse.executor": "Run",
+    "Application.ArraySumOfNumber.executor": "Run",
+    "Application.ArrayTraversal.executor": "Run",
+    "Application.BMIMultiArray.executor": "Run",
+    "Application.DigitFrequency.executor": "Run",
+    "Application.FizzBuzzArray.executor": "Run",
+    "Application.FriendsInfo.executor": "Run",
+    "Application.GreatestElement.executor": "Run",
+    "Application.LargestAndSecondLargest.executor": "Run",
+    "Application.LargestSecondLargest.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MultiDimensional.executor": "Run",
+    "Application.MultiplicationTableFromSixToNine.executor": "Run",
+    "Application.OddEven.executor": "Run",
+    "Application.StudentMarks.executor": "Run",
+    "Application.TransposeOfMatrix.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "string-api",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Anant Raj/OneDrive/Desktop/javaproject/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Bridgelabz-Training-1Y" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Bridgelabz-Training-1Y" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a71aab6a-878f-48a5-a408-f9bb8b549a6b" name="Changes" comment="" />
+      <created>1770022094110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770022094110</updated>
+    </task>
+    <servers />
+  </component>
+</project>
