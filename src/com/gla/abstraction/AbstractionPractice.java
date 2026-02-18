@@ -1,7 +1,7 @@
 package com.gla.abstraction;
 abstract class Fruit{
     abstract void test(); //abstract class
-    public void color(){ //non abstract class
+    public void color(){  //non abstract class
         System.out.println("Yellow");
     }
 }
@@ -22,7 +22,7 @@ class PineApple extends Fruit{
 public class AbstractionPractice {
     public static void main(String[] args){
         Mango m1=new Mango();
-        PineApple p1=new PineApple();//object is made only for nonabstract class
+        PineApple p1=new PineApple();  //object is made only for nonabstract class
         m1.test();
         m1.color();
         p1.test();
