@@ -1,14 +1,14 @@
 package com.gla.ExceptionHandling;
 
 public class ThrowException {
-    public static void main(String[] args){
-        int age=16;
-        if(age<18){
+    static void ageChecker(int age) {
+        if (age < 18) {
             throw new ArithmeticException("invalid age");
         }
-        else{
-            System.out.println("Eligible to vote");
-        }
+        System.out.println("valid");
     }
 
+    public static void main(String[] args) {
+        ageChecker(10);
+    }
 }
